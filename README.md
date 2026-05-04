@@ -37,4 +37,5 @@ Below are the source code for several basic algorithms I learned, as well as sma
 ## Small Tools
 
 - [Password Generator](./password_generator.cpp)  
-  Generates random passwords based on user-defined criteria, such as the number of digits and special characters.
+  Generates random passwords based on user-defined requirements, such as number of digits and special symbols.  
+  The randomness is generated using the Mersenne Twister (MT19937) engine to ensure high-quality pseudo-random number generation.
